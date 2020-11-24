@@ -1,0 +1,2 @@
+.\resources\src\sampleA.prw
+.\resources\src\sampleB.prw

@@ -1,0 +1,2 @@
+User Function sampleA()
+Return()
